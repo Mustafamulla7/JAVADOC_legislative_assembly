@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Goa_legislative"},{"p":"<Unnamed>","l":"GovernmentSection"},{"p":"<Unnamed>","l":"HouseSection"},{"p":"<Unnamed>","l":"LegislatureSection"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"Subsection"}];updateSearchResults();
